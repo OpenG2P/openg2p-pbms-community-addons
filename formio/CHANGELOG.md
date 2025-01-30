@@ -1,5 +1,19 @@
 # Changelog
 
+## 17.0.6.0.11
+
+Ensure sufficient formio.js versions (GitHub tags) are downloaded and registered.\
+In future versions this will be more configurable.
+
+## 17.0.6.0.10
+
+Possibility to override the form submit (input) value, by slurping from the input (DOM) element value.\
+This is especially useful for external JavaScript (scripts) that modify DOM input elements.
+
+## 17.0.6.0.9
+
+Fix Form (action button) Send Invitation Mail, which is `formio.form` model method `action_send_invitation_mail`.
+
 ## 17.0.6.0.8
 
 Form Builder improvements:
