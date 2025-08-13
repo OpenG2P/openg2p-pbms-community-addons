@@ -30,6 +30,6 @@
     "images": [],
     "application": True,
     "installable": True,
-    "auto_install": False,
+    "auto_install": True,
     "summary": "This module enables the management of service points, linking them to geographical areas, company entities, and user accounts for streamlined service delivery within OpenSPP.",
 }

@@ -28,6 +28,6 @@
     "images": [],
     "application": True,
     "installable": True,
-    "auto_install": False,
+    "auto_install": True,
     "summary": "Manages the distribution of in-kind entitlements within social protection programs, handling inventory, service points, and beneficiary redemption.",
 }
